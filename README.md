@@ -1,8 +1,8 @@
 # glut-computer-graphics-3d-primitives-and-basics
 
-# 3D Graphics Project
-
 This project demonstrates a basic 3D graphics scene using OpenGL and GLUT (OpenGL Utility Toolkit) in C. The scene includes a cube that can be manipulated using keyboard inputs to move, scale, and rotate. The project utilizes lighting effects, including ambient light and a spotlight.
+
+![3dbasicglut](https://github.com/kodiidok/glut-computer-graphics-3d-primitives-and-basics/assets/88420631/cd33e05d-cf35-4950-a9c7-0b4e0cb7d1be)
 
 ## Table of Contents
 - [Features](#features)
